@@ -10,6 +10,7 @@ namespace Lab_exe
          [DataRow(25,18,43)]
          [DataRow(6,47,53)]
          [DataRow(5,4,9)]
+         [DataRow(3,2,5)]
         public void TestDataAddMethod(double op1,double op2, double expresult)
         {
             double result=MyCalc.Add(op1,op2);
