@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "x441DtqApqH45MtVepqp9Gs4ejeBiJIRiuXXfwBcaq5UysuJ2LfVFOHm25GhP3dB0l6bw+23gcTC7KE/U+FYow==",
+  "success": true,
+  "projectFilePath": "C:\\Root Folder\\Day 2\\Lab_exe\\MyCalc\\MyCalc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\E009073\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\E009073\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
