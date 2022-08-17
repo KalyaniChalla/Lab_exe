@@ -9,6 +9,7 @@ namespace Lab_exe
          [DataRow(10,20,30)]
          [DataRow(25,18,43)]
          [DataRow(6,47,53)]
+         [DataRow(5,4,9)]
         public void TestDataAddMethod(double op1,double op2, double expresult)
         {
             double result=MyCalc.Add(op1,op2);
@@ -18,6 +19,7 @@ namespace Lab_exe
          [DataRow(10,20,10)]
          [DataRow(25,18,43)]
          [DataRow(6,47,53)]
+         [DataRow(5,4,12)]
         public void NegativeTestDataSubMethod(double op1,double op2, double expresult)
         {
             double result=MyCalc.Sub(op1,op2);
